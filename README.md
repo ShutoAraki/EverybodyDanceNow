@@ -4,7 +4,8 @@
 Just watch [this video](https://youtu.be/PCBTZh41Ris)! When my friend Eli Anderson showed me this video, it BLEW MY MIND!! This paper just came out on August 22, 2018 so we're talking about literally cutting edge technology right here. That's a good enough motivation. We just wanna do cool things, right?
 
 # Objective
-Complete Drake's "In My Feelings" challenge without actually dancing
+- Complete Drake's "In My Feelings" challenge without actually dancing
+- Create a web application that anyone can use to generate their own dance videos by uploading source and target videos
 
 # Background (including a lot of technical stuff that I don't fully understand)
 ## Original Paper
